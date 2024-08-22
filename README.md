@@ -19,7 +19,7 @@ JsonPowerDB is used to perform CRUD operation
 
 # Screenshots:
 <img src="public_html/Images/Saved_Data.png">
-<img src="public_html/Images/database(3).png">
+<img src="public_html/Images/database (3).png">
 
 # Illustrations:
 * **UPDATE** : when student roll number is already present in database then student information is fetched from database and filled in respective feild then user can UPDATE student information 
@@ -63,7 +63,7 @@ If roll number is valid and that roll number is existnig in database
   
  * **DataBase**
  
-   <img src="public_html/Images/database(3).png">
+   <img src="public_html/Images/database (3).png">
 
 
     
